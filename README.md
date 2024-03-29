@@ -14,6 +14,7 @@ To delete the task file, confirming before deletion, use the -del command.
 
 
 **######portuguese####################**
+
 Gerenciador de Tarefas Simples
 Este script de linha de comando, desenvolvido em Python, ajuda você a gerenciar tarefas diárias de forma eficiente. Com ele, é possível adicionar tarefas a uma lista, 
 ver todas as tarefas pendentes e deletar a lista de tarefas inteira quando necessário.
