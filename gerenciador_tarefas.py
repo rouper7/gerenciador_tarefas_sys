@@ -22,7 +22,7 @@ def exibir_ajuda():
     ajuda = """
 Gerenciador de Tarefas Simples
 Uso:
-    python gerenciador_tarefas.py -add "Nome da Tarefa"    - Adiciona uma nova tarefa| cooloque entre "" se tiver 
+    python gerenciador_tarefas.py -add "Nome da Tarefa"    - Adiciona uma nova tarefa| coloque entre "" se tiver 
                                                             espaços
     python gerenciador_tarefas.py -list                     - Lista todas as tarefas
     python gerenciador_tarefas.py --help                    - Mostra esta mensagem de ajuda
