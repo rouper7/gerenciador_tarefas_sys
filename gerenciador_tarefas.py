@@ -32,7 +32,7 @@ Uso:
     print(ajuda.strip())
 
 
-import os
+
 
 def deletar_arquivo(caminho):
     #Deleta o arquivo caso ele confirme.
